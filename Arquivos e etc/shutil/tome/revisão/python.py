@@ -1,0 +1,5 @@
+import time
+saias = 9756474786997587748975389476389476948734896389639847638968934768
+print(f".")
+print("Com algumas saias de filo")
+saias+=1

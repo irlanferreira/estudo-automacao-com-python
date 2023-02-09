@@ -1,0 +1,403 @@
+====================PROVA DO BALACOBACO====================
+
+
+Qual a capital do(a) Oregon?
+
+(A).Madison
+(B).Sacramento
+(C).Salem
+(D).Baton Rouge
+
+
+Qual a capital do(a) Georgia?
+
+(A).Jackson
+(B).Little Rock
+(C).Atlanta
+(D).Montpelier
+
+
+Qual a capital do(a) Minnesota?
+
+(A).Saint Paul
+(B).Salem
+(C).Baton Rouge
+(D).Lincoln
+
+
+Qual a capital do(a) Ohio?
+
+(A).Raleigh
+(B).Harrisburg
+(C).Columbus
+(D).Helena
+
+
+Qual a capital do(a) Mississippi?
+
+(A).Des Moines
+(B).Sacramento
+(C).Frankfort
+(D).Jackson
+
+
+Qual a capital do(a) Massachusetts?
+
+(A).Albany
+(B).Hartford
+(C).Boston
+(D).Phoenix
+
+
+Qual a capital do(a) New York?
+
+(A).Concord
+(B).Albany
+(C).Columbus
+(D).Annapolis
+
+
+Qual a capital do(a) North Dakota?
+
+(A).Bismarck
+(B).Hartford
+(C).Denver
+(D).Carson City
+
+
+Qual a capital do(a) South Dakota?
+
+(A).Denver
+(B).Concord
+(C).Pierre
+(D).Helena
+
+
+Qual a capital do(a) Kansas?
+
+(A).Salt Lake City
+(B).Cheyenne
+(C).Baton Rouge
+(D).Topeka
+
+
+Qual a capital do(a) North Carolina?
+
+(A).Lansing
+(B).Augusta
+(C).Providence
+(D).Raleigh
+
+
+Qual a capital do(a) Wyoming?
+
+(A).Cheyenne
+(B).Sacramento
+(C).Austin
+(D).Frankfort
+
+
+Qual a capital do(a) Indiana?
+
+(A).Columbus
+(B).Frankfort
+(C).Indianapolis
+(D).Tallahassee
+
+
+Qual a capital do(a) Vermont?
+
+(A).Dover
+(B).Carson City
+(C).Santa Fe
+(D).Montpelier
+
+
+Qual a capital do(a) Colorado?
+
+(A).Boston
+(B).Denver
+(C).Cheyenne
+(D).Topeka
+
+
+Qual a capital do(a) West Virginia?
+
+(A).Charleston
+(B).Helena
+(C).Phoenix
+(D).Providence
+
+
+Qual a capital do(a) Nebraska?
+
+(A).Providence
+(B).Raleigh
+(C).Denver
+(D).Lincoln
+
+
+Qual a capital do(a) Tennessee?
+
+(A).Dover
+(B).Phoenix
+(C).Nashville
+(D).Juneau
+
+
+Qual a capital do(a) Virginia?
+
+(A).Richmond
+(B).Hartford
+(C).Albany
+(D).Topeka
+
+
+Qual a capital do(a) New Mexico?
+
+(A).Santa Fe
+(B).Boise
+(C).Juneau
+(D).Annapolis
+
+
+Qual a capital do(a) Maryland?
+
+(A).Albany
+(B).Annapolis
+(C).Helena
+(D).Harrisburg
+
+
+Qual a capital do(a) Idaho?
+
+(A).Columbia
+(B).Lansing
+(C).Boise
+(D).Springfield
+
+
+Qual a capital do(a) Wisconsin?
+
+(A).Madison
+(B).Hartford
+(C).Montpelier
+(D).Topeka
+
+
+Qual a capital do(a) New Hampshire?
+
+(A).Boston
+(B).Carson City
+(C).Concord
+(D).Columbus
+
+
+Qual a capital do(a) Alabama?
+
+(A).Montgomery
+(B).Richmond
+(C).Phoenix
+(D).Olympia
+
+
+Qual a capital do(a) Delaware?
+
+(A).Oklahoma City
+(B).Dover
+(C).Lansing
+(D).Trenton
+
+
+Qual a capital do(a) Maine?
+
+(A).Lansing
+(B).Augusta
+(C).Salem
+(D).Columbus
+
+
+Qual a capital do(a) Utah?
+
+(A).Frankfort
+(B).Austin
+(C).Salt Lake City
+(D).Tallahassee
+
+
+Qual a capital do(a) Iowa?
+
+(A).Honolulu
+(B).Hartford
+(C).Salem
+(D).Des Moines
+
+
+Qual a capital do(a) Connecticut?
+
+(A).Atlanta
+(B).Carson City
+(C).Salem
+(D).Hartford
+
+
+Qual a capital do(a) Missouri?
+
+(A).Denver
+(B).Harrisburg
+(C).Jefferson City
+(D).Juneau
+
+
+Qual a capital do(a) Montana?
+
+(A).Oklahoma City
+(B).Helena
+(C).Little Rock
+(D).Jackson
+
+
+Qual a capital do(a) Nevada?
+
+(A).Frankfort
+(B).Carson City
+(C).Helena
+(D).Annapolis
+
+
+Qual a capital do(a) Pennsylvania?
+
+(A).Dover
+(B).Trenton
+(C).Harrisburg
+(D).Montgomery
+
+
+Qual a capital do(a) Illinois?
+
+(A).Springfield
+(B).Atlanta
+(C).Richmond
+(D).Honolulu
+
+
+Qual a capital do(a) New Jersey?
+
+(A).Annapolis
+(B).Topeka
+(C).Salem
+(D).Trenton
+
+
+Qual a capital do(a) Arizona?
+
+(A).Juneau
+(B).Salt Lake City
+(C).Phoenix
+(D).Trenton
+
+
+Qual a capital do(a) Kentucky?
+
+(A).Boston
+(B).Harrisburg
+(C).Lincoln
+(D).Frankfort
+
+
+Qual a capital do(a) Michigan?
+
+(A).Albany
+(B).Atlanta
+(C).Columbus
+(D).Lansing
+
+
+Qual a capital do(a) Arkansas?
+
+(A).Hartford
+(B).Little Rock
+(C).Albany
+(D).Denver
+
+
+Qual a capital do(a) Rhode Island?
+
+(A).Charleston
+(B).Boise
+(C).Providence
+(D).Tallahassee
+
+
+Qual a capital do(a) Alaska?
+
+(A).Juneau
+(B).Santa Fe
+(C).Baton Rouge
+(D).Carson City
+
+
+Qual a capital do(a) Oklahoma?
+
+(A).Annapolis
+(B).Oklahoma City
+(C).Albany
+(D).Olympia
+
+
+Qual a capital do(a) Texas?
+
+(A).Olympia
+(B).Cheyenne
+(C).Austin
+(D).Honolulu
+
+
+Qual a capital do(a) Louisiana?
+
+(A).Frankfort
+(B).Baton Rouge
+(C).Raleigh
+(D).Concord
+
+
+Qual a capital do(a) California?
+
+(A).Augusta
+(B).Montpelier
+(C).Pierre
+(D).Sacramento
+
+
+Qual a capital do(a) Hawaii?
+
+(A).Honolulu
+(B).Montgomery
+(C).Albany
+(D).Baton Rouge
+
+
+Qual a capital do(a) Washington?
+
+(A).Raleigh
+(B).Montgomery
+(C).Olympia
+(D).Santa Fe
+
+
+Qual a capital do(a) South Carolina?
+
+(A).Nashville
+(B).Richmond
+(C).Columbia
+(D).Trenton
+
+
+Qual a capital do(a) Florida?
+
+(A).Springfield
+(B).Tallahassee
+(C).Des Moines
+(D).Austin
+
+

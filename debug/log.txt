@@ -1,0 +1,35 @@
+Traceback (most recent call last):
+  File "C:\Users\adm\Documents\Estudos\Python\AutomatizandoTarefasMacantes\debug\main.py", line 3, in <module>
+    raise Exception('errinho')
+Exception: errinho
+
+==============================
+
+Traceback (most recent call last):
+  File "C:\Users\adm\Documents\Estudos\Python\AutomatizandoTarefasMacantes\debug\main.py", line 3, in <module>
+    raise Exception('errinho')
+Exception: errinho
+
+==============================
+
+Traceback (most recent call last):
+  File "C:\Users\adm\Documents\Estudos\Python\AutomatizandoTarefasMacantes\debug\main.py", line 3, in <module>
+    raise Exception('errinho')
+Exception: errinho
+
+==============================
+
+Traceback (most recent call last):
+  File "C:\Users\adm\Documents\Estudos\Python\AutomatizandoTarefasMacantes\debug\main.py", line 3, in <module>
+    print(45 + '3')
+TypeError: unsupported operand type(s) for +: 'int' and 'str'
+
+==============================
+
+Traceback (most recent call last):
+  File "C:\Users\adm\Documents\Estudos\Python\AutomatizandoTarefasMacantes\debug\main.py", line 4, in <module>
+    print(45 + '3')
+TypeError: unsupported operand type(s) for +: 'int' and 'str'
+
+==============================
+
